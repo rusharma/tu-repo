@@ -7,6 +7,7 @@
 <title>Hello World</title>
 </head>
 <body>
-	<%= "Hello World!Its really cold out here!" %>
+<H3>Hello World!</H3>
+<p>Checking in from <%= out.println(request.getRemoteAddr()); %></p>
 </body>
 </html>
